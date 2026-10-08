@@ -1,0 +1,6 @@
+{
+  "name": "ComiVentas",
+  "description": "Control de ventas de celulares y comisiones mensuales por marca y referencia para asesores de call center",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

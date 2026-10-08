@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ComiVentas</string>
+    <string name="tab_sales">Ventas</string>
+    <string name="tab_history">Historial</string>
+    <string name="tab_metrics">Métricas</string>
+    <string name="tab_settings">Ajustes</string>
+    <string name="add_sale">Registrar Venta</string>
+    <string name="search_hint">Buscar por modelo, cliente o IMEI...</string>
+    <string name="total_commission">Comisión del Mes</string>
+    <string name="sales_count">Ventas registradas</string>
+    <string name="monthly_goal">Meta Mensual</string>
+    <string name="status_approved">Aprobada</string>
+    <string name="status_pending">En Validación</string>
+    <string name="status_cancelled">Anulada</string>
+</resources>
